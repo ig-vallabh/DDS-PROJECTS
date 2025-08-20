@@ -30,6 +30,7 @@ Send messages with timestamp.
 Undo last sent message.
 Redo undone messages.
 View chat history.
+
 ▶️ How to Run
 Clone the repository:
 git clone https://github.com/your-username/data-structures-projects.git
